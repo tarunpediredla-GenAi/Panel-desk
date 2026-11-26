@@ -1,0 +1,6 @@
+{
+  "name": "PanelDesk",
+  "description": "Ask interview questions by voice or text and get fast, spoken-English answers grounded in your private interview PDF with clickable page citations.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
